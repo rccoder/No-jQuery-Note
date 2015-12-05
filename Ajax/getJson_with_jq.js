@@ -1,0 +1,3 @@
+$.getJson('/url', function (data) {
+
+});
